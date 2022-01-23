@@ -1,0 +1,82 @@
+[
+  {
+    "1": "1",
+    "Que1": "What is the capital city of Bangladesh?",
+    "A": "Chittagong",
+    "B": "Dhaka",
+    "C": "Bangalore",
+    "D": "Delhi"
+  },
+  {
+    "2": "2",
+    "Que2": "What does Bangladesh's flag look like?",
+    "A": "Red background with white circle in centre",
+    "B": "Green background with red circle in centre",
+    "C": "White background with black circle in centre",
+    "D": "Blue background with yellow star in centre"
+  },
+  {
+    "3": "3",
+    "Que3": "On which continent is Bangladesh located?",
+    "A": "Africa",
+    "B": "Asia",
+    "C": "Europe",
+    "D": "South America"
+  },
+  {
+    "4": "4",
+    "Que4": "What is the main religion practiced in Bangladesh?",
+    "A": "Islam",
+    "B": "Christianity",
+    "C": "Buddhism",
+    "D": "Hinduism"
+  },
+  {
+    "5": "5",
+    "Que5": "Which two countries ruled the area that came to be known as Bangladesh in the second half of the 20th century?",
+    "A": "Britain and Pakistan",
+    "B": "Thailand and Burma",
+    "C": "India and Pakistan",
+    "D": "China and Britain"
+  },
+  {
+    "6": "6",
+    "Que6": "What did Bangladesh become known as after its first session of Independence in 1947?",
+    "A": "East India",
+    "B": "East Burma",
+    "C": "West Pakistan",
+    "D": "East Pakistan"
+  },
+  {
+    "7": "7",
+    "Que7": "What year did Bangladesh finally become independent and gain the name it has today?",
+    "A": "1971",
+    "B": "1991",
+    "C": "1871",
+    "D": "1671"
+  },
+  {
+    "8": "8",
+    "Que8": "What is the national flower of Bangladesh?",
+    "A": "Water Lily",
+    "B": "Orchid",
+    "C": "Rose",
+    "D": "Tulip"
+  },
+  {
+    "9": "9",
+    "Que9": "Bangladesh is completely surrounded by which country?",
+    "A": "Pakistan",
+    "B": "India",
+    "C": "Bhutan",
+    "D": "Nepal"
+  },
+  {
+    "10": "10",
+    "Que10": "Which area of sea lies to the south of Bangladesh?",
+    "A": "South China Sea",
+    "B": "Indian Sea",
+    "C": "Bay of Bengal",
+    "D": "Atlantic"
+  }
+]
